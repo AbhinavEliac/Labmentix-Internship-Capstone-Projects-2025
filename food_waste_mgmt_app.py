@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import pandasql as psql
 import numpy as np
 import sqlite3 as s3
 import plotly.express as px
